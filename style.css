@@ -54,7 +54,7 @@
                         }
                         
                         .content-img1 {
-                            background: url(marie/assets/recherche-logo-romain-denis-mockup.jpg) center/cover;
+                            background: url(assets/recherche-logo-romain-denis-mockup.jpg) center/cover;
                             height: 210px;
                             position: relative;
                             left: 70px;
@@ -64,7 +64,7 @@
                         .content-img2 {
                             margin-left: 35px;
                             margin-top: 35px;
-                            background: url(marie/assets/smartmockups_ku3vtse0.png)center/cover;
+                            background: url(assets/smartmockups_ku3vtse0.png)center/cover;
                             height: 182px;
                             width: 228px;
                         }
